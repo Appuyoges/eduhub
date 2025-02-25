@@ -1,0 +1,158 @@
+/* 🌟 General Page Styling */
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #f4f7fc;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+/* 📌 Profile Header */
+h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #031925;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+/* 📍 Profile Grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 25px;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* 🎯 Profile Cards */
+.grid-item {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+    text-align: left;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+}
+
+.grid-item:hover {
+    transform: translateY(-5px);
+}
+
+/* 🏅 User Profile */
+.grid-item:first-child {
+    text-align: center;
+    padding: 30px;
+}
+
+.grid-item:first-child h3 {
+    font-size: 1.8rem;
+    color: #031925;
+}
+
+.grid-item:first-child p {
+    font-size: 1.2rem;
+    color: #666;
+}
+
+/* 🏆 Tags */
+.grid-item .mt-4 span {
+    display: inline-block;
+    padding: 6px 10px;
+    font-size: 0.9rem;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.bg-green-200 {
+    background: #d4edda;
+    color: #155724;
+}
+
+.bg-yellow-200 {
+    background: #fff3cd;
+    color: #856404;
+}
+
+/* 🔥 Titles */
+.grid-item h3 {
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #031925;
+    margin-bottom: 15px;
+}
+
+/* 📌 Text */
+.grid-item p,
+.grid-item li {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 5px;
+}
+
+/* ✅ List Styles */
+.grid-item ul {
+    list-style: none;
+    padding: 0;
+}
+
+.grid-item ul li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.grid-item ul li::before {
+    content: "✔";
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* 🎯 Leaderboard & Attendance */
+.grid-item p span {
+    font-weight: bold;
+    color: #007bff;
+}
+
+/* 📊 Grades - Flex Display */
+.grid-item .flex {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.1rem;
+}
+
+/* 🎯 Badges */
+.trending {
+    display: inline-block;
+    color: #ff4c4c;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 768px) {
+    .grid-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .grid-item {
+        width: 90%;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    p {
+        font-size: 1.1rem;
+    }
+}

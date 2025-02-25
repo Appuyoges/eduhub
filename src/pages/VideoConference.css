@@ -1,0 +1,81 @@
+/* ===============================
+   🎥 Video Grid Layout (Max 4 Cameras)
+   =============================== */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2x2 Grid Layout */
+  gap: 15px;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 500px; /* Ensures a compact layout */
+  padding: 10px;
+}
+
+/* ===============================
+   🎥 Video Boxes (Local & Remote)
+   =============================== */
+.video-box {
+  width: 220px;  /* Square Size */
+  height: 220px; /* Square Size */
+  background: transparent;
+  border: 2px solid #f4ebd1;
+  border-radius: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.video-box:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(244, 235, 209, 0.5);
+}
+
+/* Hide extra videos beyond 4 */
+.video-box:nth-child(n+5) {
+  display: none;
+}
+
+/* ===============================
+   🎥 Controls (Join/Leave Buttons)
+   =============================== */
+.controls {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.controls button {
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+  background: #447d85;
+  color: white;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.controls button:hover {
+  background: #eaebed;
+  color: #031925;
+  transform: scale(1.1);
+}
+
+/* ===============================
+   🎥 Responsive Design (Mobile)
+   =============================== */
+@media (max-width: 600px) {
+  .video-grid {
+    grid-template-columns: repeat(1, 1fr); /* 1 Column on Mobile */
+    max-width: 250px;
+  }
+
+  .video-box {
+    width: 180px;  /* Smaller squares for mobile */
+    height: 180px;
+  }
+}

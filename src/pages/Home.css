@@ -1,0 +1,290 @@
+/* 🌍 Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: #f4ebd1;
+}
+
+/* 📌 Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: #031925;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.navbar-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.navbar-links {
+    display: flex;
+    gap: 1rem;
+    margin-left: auto;
+    padding-right: 1rem;
+}
+
+.navbar-links a,
+.logout-button {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: 0.3s;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.logout-button {
+    background: #ff4d4d;
+}
+
+.navbar-links a:hover,
+.logout-button:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+/* 🏡 Home Section */
+.home-title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #fbfbfb;
+    margin-top: 140px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+.home-text {
+    font-size: 1.2rem;
+    color: #f1f2f3;
+    margin-bottom: 30px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* 🎯 Buttons */
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 20px;
+}
+
+.cta-button {
+    padding: 12px 24px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s;
+    background: #36a69a;
+    color: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.cta-button:hover {
+    background: #2a8d84;
+    transform: scale(1.05);
+}
+
+/* 🎥 Slider Container */
+.slider-container {
+    position: relative;
+    width: 95%;
+    max-width: 1400px;
+    margin: 40px auto;
+    overflow: hidden;
+    border-radius: 25px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
+}
+
+/* Slider Images */
+.slider-container img {
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    border-radius: 25px;
+    transition: transform 0.4s, filter 0.3s;
+}
+
+.slider-container img:hover {
+    transform: scale(1.08);
+    filter: brightness(1.15);
+}
+
+/* 🎨 Slider Overlay */
+.slider-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.6), transparent);
+    border-radius: 25px;
+    z-index: 1;
+}
+
+/* 🎯 Slick Dots */
+.slick-dots {
+    bottom: 20px;
+}
+
+.slick-dots li button:before {
+    font-size: 16px;
+    color: white;
+    opacity: 0.8;
+    transition: opacity 0.3s, transform 0.3s;
+}
+
+.slick-dots li.slick-active button:before {
+    color: #88aeae;
+    opacity: 1;
+    font-size: 20px;
+    transform: scale(1.3);
+}
+
+/* ⏩ Slider Navigation */
+.slick-prev,
+.slick-next {
+    width: 60px;
+    height: 60px;
+    z-index: 10;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    transition: background 0.3s, transform 0.3s;
+}
+
+.slick-prev {
+    left: -60px;
+}
+
+.slick-next {
+    right: -60px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-size: 40px;
+    color: white;
+    opacity: 0.9;
+    transition: color 0.3s;
+}
+
+/* Hover Effects */
+.slick-prev:hover,
+.slick-next:hover {
+    background: rgba(0, 123, 255, 0.8);
+    transform: scale(1.2);
+}
+
+.slick-prev:hover:before,
+.slick-next:hover:before {
+    color: #cbc29d;
+}
+
+/* 📜 Slider Caption - Visible on All Slides */
+.slider-caption {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.6);
+    padding: 12px 25px;
+    border-radius: 12px;
+    position: absolute;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%);
+    transition: all 0.3s;
+    opacity: 1;  /* Ensure it's always visible */
+}
+
+/* Ensure caption is on all slides */
+.slider-item {
+    position: relative;
+}
+
+.slider-item .slider-caption {
+    display: block; /* Ensures captions appear on all images */
+}
+
+/* Hover Effect */
+.slider-item:hover .slider-caption {
+    background: rgba(255, 255, 255, 0.2);
+    color: #b0ab95;
+    text-shadow: 3px 3px 15px rgb(179, 175, 159);
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 1200px) {
+    .slider-container {
+        max-width: 90%;
+    }
+    .slider-container img {
+        height: 480px;
+    }
+    .slider-caption {
+        font-size: 1.8rem;
+    }
+}
+
+@media (max-width: 992px) {
+    .slider-container img {
+        height: 420px;
+    }
+    .slick-prev, .slick-next {
+        width: 50px;
+        height: 50px;
+    }
+    .slick-prev:before, .slick-next:before {
+        font-size: 32px;
+    }
+    .slider-caption {
+        font-size: 1.5rem;
+        padding: 10px 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+    }
+    .navbar-links {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .slider-container img {
+        height: 350px;
+    }
+    .slider-caption {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .slider-container img {
+        height: 280px;
+    }
+    .slider-caption {
+        font-size: 1rem;
+        padding: 8px 16px;
+    }
+}
