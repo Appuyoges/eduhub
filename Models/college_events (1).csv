@@ -1,0 +1,6 @@
+event_id,event_name,required_skills
+1,AI & Machine Learning Workshop,"AI, Machine Learning, Data Science"
+2,Full Stack Web Development Bootcamp,"Frontend, Backend, Full Stack"
+3,Data Science and Analytics Conference,"Data Science, Analytics, Python"
+4,Cybersecurity Awareness Seminar,"Cybersecurity, Ethical Hacking, Networking"
+5,Software Engineering Hackathon,"Software Engineering, Problem Solving, Competitive Programming"

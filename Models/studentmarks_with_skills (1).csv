@@ -1,0 +1,1001 @@
+Roll Number,gender,math score,reading score,writing score,Skills
+226214376,female,72,72,74,Data Science
+221041307,female,69,90,88,Backend
+226450904,female,90,95,93,Backend
+229669582,male,47,57,44,"Data Science, AI"
+224058636,male,76,78,75,Frontend
+229471165,female,71,83,78,"Data Science, IoT"
+223242756,female,88,95,92,"Cybersecurity, DevOps"
+226821728,male,40,43,39,"AI, DevOps"
+223514234,male,64,64,67,"Data Science, Cybersecurity"
+222693519,female,38,60,50,"Cybersecurity, Frontend"
+224927836,male,58,54,52,"AI, Full Stack"
+227476509,male,40,52,43,"Frontend, Full Stack"
+225915266,female,65,81,73,Data Science
+229016075,male,78,72,70,"Frontend, Backend"
+226028883,female,50,53,58,"Data Science, Cybersecurity"
+221091846,female,69,75,78,"Backend, Cybersecurity"
+226505018,male,88,89,86,"Frontend, IoT"
+222022238,female,18,32,28,Full Stack
+229179264,male,46,42,46,Data Science
+227057737,female,54,58,61,Full Stack
+222117681,male,66,69,63,DevOps
+226921484,female,65,75,70,Full Stack
+229474847,male,44,54,53,Data Science
+225659093,female,69,73,73,"Full Stack, IoT"
+223536462,male,74,71,80,Data Science
+227498637,male,73,74,72,"DevOps, Frontend"
+225081793,male,69,54,55,IoT
+225424281,female,67,69,75,Full Stack
+223187094,male,70,70,65,Cybersecurity
+227136293,female,62,70,75,"AI, Full Stack"
+224426416,female,69,74,74,Full Stack
+221166718,female,63,65,61,DevOps
+226940290,female,56,72,65,AI
+225823612,male,40,42,38,Data Science
+224824148,male,97,87,82,"Full Stack, Data Science"
+227281255,male,81,81,79,Backend
+228733220,female,74,81,83,Frontend
+221427353,female,50,64,59,Cybersecurity
+228673848,female,75,90,88,Full Stack
+229161490,male,57,56,57,"Data Science, Backend"
+227824729,male,55,61,54,IoT
+223497740,female,58,73,68,Cybersecurity
+222363359,female,53,58,65,"Frontend, AI"
+226800803,male,59,65,66,Data Science
+222571837,female,50,56,54,"IoT, Data Science"
+225738386,male,65,54,57,"Backend, Frontend"
+226251426,female,55,65,62,Data Science
+229415577,female,66,71,76,"Full Stack, Cybersecurity"
+228730072,female,57,74,76,"Full Stack, Backend"
+225099280,male,82,84,82,Full Stack
+224188066,male,53,55,48,AI
+224029463,male,77,69,68,"Cybersecurity, IoT"
+222623995,male,53,44,42,"Full Stack, DevOps"
+222686879,male,88,78,75,AI
+229610757,female,71,84,87,Data Science
+228201308,female,33,41,43,IoT
+225366392,female,82,85,86,"Frontend, IoT"
+228481156,male,52,55,49,"Full Stack, Frontend"
+228580130,male,58,59,58,"IoT, DevOps"
+227480648,female,0,17,10,"AI, Full Stack"
+222642449,male,79,74,72,"Data Science, AI"
+226143826,male,39,39,34,Full Stack
+229599179,male,62,61,55,"Frontend, Full Stack"
+224139259,female,69,80,71,AI
+227727346,female,59,58,59,"DevOps, Frontend"
+228054660,male,67,64,61,AI
+221896348,male,45,37,37,"Backend, DevOps"
+228573314,female,60,72,74,"DevOps, Cybersecurity"
+221947048,male,61,58,56,Data Science
+223706173,female,39,64,57,"IoT, AI"
+229298200,female,58,63,73,IoT
+221787264,male,63,55,63,"Data Science, Backend"
+226285541,female,41,51,48,"Full Stack, Frontend"
+226344274,male,61,57,56,Frontend
+223096000,male,49,49,41,"DevOps, Full Stack"
+227868151,male,44,41,38,"AI, IoT"
+222427447,male,30,26,22,"Cybersecurity, IoT"
+223395525,male,80,78,81,"Backend, Cybersecurity"
+222250269,female,61,74,72,DevOps
+228820599,female,62,68,68,"AI, IoT"
+223468539,female,47,49,50,Cybersecurity
+229488106,male,49,45,45,"Backend, Data Science"
+226678154,male,50,47,54,"DevOps, AI"
+226471362,male,72,64,63,"DevOps, Frontend"
+228278988,male,42,39,34,Frontend
+226803778,female,73,80,82,Frontend
+223428247,female,76,83,88,"Cybersecurity, DevOps"
+221884222,female,71,71,74,Backend
+222831682,female,58,70,67,"IoT, Data Science"
+223492194,female,73,86,82,IoT
+229890499,female,65,72,74,IoT
+221825880,male,27,34,36,"Backend, Data Science"
+223140587,male,71,79,71,AI
+225347582,male,43,45,50,Frontend
+226367746,female,79,86,92,"Frontend, Full Stack"
+223536171,male,78,81,82,"Cybersecurity, DevOps"
+225521369,male,65,66,62,AI
+226455179,female,63,72,70,"IoT, DevOps"
+227561199,female,58,67,62,Backend
+226315506,female,65,67,62,"Data Science, Backend"
+224816308,male,79,67,67,Backend
+228824751,male,68,74,74,"Frontend, AI"
+227766530,female,85,91,89,"IoT, Data Science"
+227912381,male,60,44,47,"DevOps, Full Stack"
+225976193,male,98,86,90,"Frontend, IoT"
+229296716,female,58,67,72,Data Science
+226922773,female,87,100,100,"Cybersecurity, Data Science"
+221163450,male,66,63,64,"Data Science, IoT"
+221516094,female,52,76,70,"Frontend, Data Science"
+224151511,female,70,64,72,Frontend
+227814882,female,77,89,98,"Frontend, DevOps"
+223477621,male,62,55,49,"Frontend, Backend"
+227781673,male,54,53,47,"Cybersecurity, DevOps"
+221500468,female,51,58,54,"DevOps, IoT"
+228266748,female,99,100,100,Backend
+222900918,male,84,77,74,"Frontend, Data Science"
+222313336,female,75,85,82,"Backend, AI"
+224883263,female,78,82,79,Data Science
+221018640,female,51,63,61,"IoT, Data Science"
+227869418,female,55,69,65,"Backend, DevOps"
+227490003,female,79,92,89,"Full Stack, Frontend"
+227694431,male,91,89,92,"Data Science, Backend"
+223299484,female,88,93,93,"IoT, Cybersecurity"
+226416556,male,63,57,56,"AI, DevOps"
+225391805,male,83,80,73,Data Science
+225446207,female,87,95,86,Cybersecurity
+227290327,male,72,68,67,Backend
+227968156,male,65,77,74,DevOps
+225019779,male,82,82,74,Full Stack
+221925705,female,51,49,51,AI
+223874558,male,89,84,82,Frontend
+228693433,male,53,37,40,Backend
+228513986,male,87,74,70,"AI, Full Stack"
+228942265,female,75,81,84,"AI, Backend"
+223178817,male,74,79,75,"AI, IoT"
+228556012,male,58,55,48,"Full Stack, Backend"
+223098367,male,51,54,41,IoT
+221106240,male,70,55,56,Cybersecurity
+223212797,female,59,66,67,"Cybersecurity, Frontend"
+227329843,male,71,61,69,"Frontend, DevOps"
+224021564,female,76,72,71,Data Science
+222652059,female,59,62,64,Backend
+224615753,female,42,55,54,Cybersecurity
+228294572,male,57,43,47,"Full Stack, DevOps"
+228129304,male,88,73,78,"IoT, AI"
+223613643,female,22,39,33,"Cybersecurity, Full Stack"
+229915548,male,88,84,75,IoT
+223056408,male,73,68,66,DevOps
+224708640,female,68,75,81,"Cybersecurity, Backend"
+227258011,male,100,100,93,Backend
+226675685,male,62,67,69,Data Science
+228843870,male,77,67,68,"Backend, IoT"
+223754674,female,59,70,66,AI
+221696321,male,54,49,47,"Frontend, IoT"
+225470073,male,62,67,61,IoT
+221510753,female,70,89,88,Backend
+225091551,female,66,74,78,IoT
+226277497,male,60,60,60,"Data Science, AI"
+223114230,female,61,86,87,Backend
+222137299,male,66,62,64,"IoT, Backend"
+229329943,male,82,78,74,"IoT, Full Stack"
+227134027,female,75,88,85,DevOps
+221522327,male,49,53,52,"IoT, Backend"
+226863919,male,52,53,49,Data Science
+222549597,female,81,92,91,"Backend, DevOps"
+225576871,female,96,100,100,Cybersecurity
+222411435,male,53,51,51,IoT
+227295968,female,58,76,78,Full Stack
+227013054,female,68,83,78,"AI, Backend"
+226939754,female,67,75,70,Cybersecurity
+224981333,male,72,73,74,Frontend
+221414157,male,94,88,78,"IoT, Backend"
+225931815,female,79,86,81,DevOps
+227712519,female,63,67,70,AI
+227532600,female,43,51,54,AI
+223906248,female,81,91,87,Cybersecurity
+222496523,female,46,54,58,"Data Science, AI"
+228608368,female,71,77,77,Frontend
+225303734,female,52,70,62,Frontend
+227457779,female,97,100,100,"Cybersecurity, AI"
+225753499,male,62,68,75,"Data Science, Backend"
+221790769,female,46,64,66,DevOps
+228998908,female,50,50,47,Full Stack
+227887245,female,65,69,70,"IoT, Data Science"
+222695206,male,45,52,49,Backend
+225965151,male,65,67,65,"Cybersecurity, Data Science"
+223185741,male,80,76,65,"Data Science, Cybersecurity"
+227404282,male,62,66,68,"Backend, AI"
+224547342,male,48,52,45,"Full Stack, DevOps"
+224932844,female,77,88,87,DevOps
+226016384,female,66,65,69,"DevOps, IoT"
+223509895,male,76,83,79,Full Stack
+222623296,female,62,64,66,"Data Science, Backend"
+224318151,male,77,62,62,"AI, Data Science"
+228373362,female,69,84,85,Frontend
+227533820,male,61,55,52,Backend
+226777062,male,59,69,65,"Cybersecurity, Backend"
+225905028,male,55,56,51,AI
+227428400,female,45,53,55,DevOps
+225165716,female,78,79,76,"DevOps, Full Stack"
+222481304,female,67,84,86,DevOps
+227486510,female,65,81,77,Data Science
+224136138,male,69,77,69,"Full Stack, IoT"
+223880427,female,57,69,68,AI
+222603227,male,59,41,42,Backend
+223594206,male,74,71,78,Full Stack
+228232146,male,82,62,62,"Data Science, DevOps"
+227249474,male,81,80,76,"Full Stack, AI"
+223197179,female,74,81,76,"Data Science, DevOps"
+228243980,female,58,61,66,Data Science
+222762260,male,80,79,79,"DevOps, Full Stack"
+226659129,male,35,28,27,"Frontend, Data Science"
+222580537,female,42,62,60,"Data Science, Frontend"
+224230679,male,60,51,56,Frontend
+226166372,male,87,91,81,"IoT, DevOps"
+229193379,male,84,83,75,Backend
+222209819,female,83,86,88,"Data Science, AI"
+227781925,female,34,42,39,Data Science
+222281287,male,66,77,70,AI
+223652229,male,61,56,56,Full Stack
+229671361,female,56,68,74,Frontend
+226032868,male,87,85,73,Data Science
+224703771,female,55,65,62,"Backend, IoT"
+222210173,male,86,80,75,"Backend, AI"
+226182828,female,52,66,73,DevOps
+223354916,female,45,56,54,"AI, Backend"
+221307244,female,72,72,71,"Backend, DevOps"
+222005894,male,57,50,54,"Frontend, IoT"
+228468556,male,68,72,64,"Backend, Cybersecurity"
+221218899,female,88,95,94,Cybersecurity
+229358388,male,76,64,66,Data Science
+229272038,male,46,43,42,"IoT, Data Science"
+229033532,female,67,86,83,Backend
+225088610,male,92,87,78,"AI, IoT"
+229544780,male,83,82,84,"Full Stack, AI"
+225644877,male,80,75,77,AI
+221086855,male,63,66,67,Full Stack
+221867205,female,64,60,74,"Backend, IoT"
+222440360,male,54,52,51,Cybersecurity
+225691650,male,84,80,80,"Full Stack, AI"
+229747928,male,73,68,66,"AI, Data Science"
+226242354,female,80,83,83,"Cybersecurity, Frontend"
+229380596,female,56,52,55,IoT
+226131316,male,59,51,43,"DevOps, AI"
+221918147,male,75,74,69,Full Stack
+225049099,male,85,76,71,DevOps
+226774220,male,89,76,74,"Full Stack, AI"
+229743761,female,58,70,68,Data Science
+224406911,female,65,64,62,"Full Stack, Frontend"
+223847186,male,68,60,53,Cybersecurity
+229384619,male,47,49,49,Cybersecurity
+227017533,female,71,83,83,"Data Science, Frontend"
+221211905,female,60,70,70,Data Science
+225500065,male,80,80,72,"DevOps, Backend"
+226259244,male,54,52,52,Frontend
+226414180,female,62,73,70,Data Science
+222288117,female,64,73,68,AI
+225879022,male,78,77,77,AI
+223832670,female,70,75,78,"Cybersecurity, IoT"
+224766027,female,65,81,81,"Backend, AI"
+225712551,female,64,79,77,Backend
+224887231,male,79,79,78,AI
+229129342,female,44,50,51,"Frontend, DevOps"
+229926466,female,99,93,90,AI
+224554531,male,76,73,68,"DevOps, Cybersecurity"
+221648314,male,59,42,41,DevOps
+221400307,female,63,75,81,Full Stack
+227566369,female,69,72,77,"Backend, Data Science"
+229222863,female,88,92,95,"IoT, Backend"
+224680618,female,71,76,70,"Backend, Cybersecurity"
+229669821,male,69,63,61,"Data Science, Backend"
+222629350,male,58,49,42,"Backend, AI"
+222906728,female,47,53,58,DevOps
+224137060,female,65,70,71,"Full Stack, Frontend"
+223742046,male,88,85,76,"Backend, IoT"
+226421632,male,83,78,73,"Full Stack, DevOps"
+222321200,female,85,92,93,"Full Stack, IoT"
+221720290,female,59,63,75,AI
+225812928,female,65,86,80,AI
+227844156,male,73,56,57,"Data Science, IoT"
+229732912,male,53,52,42,IoT
+227691134,male,45,48,46,Backend
+221572589,female,73,79,84,Cybersecurity
+227736495,female,70,78,78,"IoT, Data Science"
+229215843,female,37,46,46,"DevOps, AI"
+225686472,male,81,82,82,IoT
+221703521,male,97,82,88,Full Stack
+225417605,female,67,89,82,Backend
+227719554,male,88,75,76,Backend
+223255460,male,77,76,77,"Frontend, Full Stack"
+229858436,male,76,70,68,Cybersecurity
+228041463,male,86,73,70,"Full Stack, IoT"
+225860806,male,63,60,57,"Frontend, Full Stack"
+221961922,female,65,73,75,AI
+221766404,male,78,77,80,Backend
+227302687,male,67,62,60,Cybersecurity
+225870901,male,46,41,43,Frontend
+223774920,male,71,74,68,Backend
+229940266,male,40,46,50,"Backend, DevOps"
+222706900,male,90,87,75,Backend
+227173974,male,81,78,81,Frontend
+228457091,male,56,54,52,"Full Stack, Frontend"
+226830937,female,67,84,81,"AI, Data Science"
+224367062,male,80,76,64,Data Science
+221358439,female,74,75,83,Full Stack
+229447273,male,69,67,69,"AI, Frontend"
+225399859,male,99,87,81,Data Science
+223400849,male,51,52,44,Full Stack
+223970735,female,53,71,67,"Frontend, IoT"
+226637345,female,49,57,52,IoT
+222668937,female,73,76,80,Full Stack
+228044103,male,66,60,57,"Backend, AI"
+224236714,male,67,61,68,Backend
+228923708,female,68,67,69,Data Science
+225327218,female,59,64,75,Full Stack
+229050363,male,71,66,65,"Data Science, Backend"
+223210828,female,77,82,91,Cybersecurity
+229812714,male,83,72,78,"Data Science, AI"
+227287888,male,63,71,69,"Data Science, IoT"
+225878324,female,56,65,63,"Full Stack, AI"
+225485906,female,67,79,84,"Frontend, Cybersecurity"
+226636586,female,75,86,79,IoT
+221265806,female,71,81,80,"DevOps, Data Science"
+225076037,female,43,53,53,"Frontend, Data Science"
+224379284,female,41,46,43,IoT
+221779530,female,82,90,94,AI
+227493988,male,61,61,62,"IoT, Data Science"
+225578437,male,28,23,19,"Full Stack, DevOps"
+224564297,male,82,75,77,"IoT, Frontend"
+225846496,female,41,55,51,"Full Stack, IoT"
+222091293,male,71,60,61,Frontend
+225795341,male,47,37,35,Backend
+223478938,male,62,56,53,Full Stack
+221328257,male,90,78,81,"Cybersecurity, DevOps"
+226933011,female,83,93,95,"Backend, Data Science"
+226782370,female,61,68,66,"Data Science, Full Stack"
+228531108,male,76,70,69,Data Science
+221084958,male,49,51,43,"Full Stack, Frontend"
+226252729,female,24,38,27,"DevOps, AI"
+222942337,female,35,55,60,Frontend
+228989988,male,58,61,52,Data Science
+228034004,female,61,73,63,Data Science
+222912463,female,69,76,74,Full Stack
+221146117,male,67,72,67,Full Stack
+222310705,male,79,73,67,IoT
+224723555,female,72,80,75,"Backend, AI"
+225239358,male,62,61,57,"IoT, AI"
+227803312,female,77,94,95,Data Science
+228986860,male,75,74,66,Backend
+225957826,male,87,74,76,"Frontend, Backend"
+226749147,female,52,65,69,"Frontend, Backend"
+225402885,male,66,57,52,"AI, Cybersecurity"
+224601305,female,63,78,80,IoT
+224759026,female,46,58,57,Data Science
+223938238,female,59,71,70,"DevOps, Data Science"
+223112931,female,61,72,70,Full Stack
+228079306,male,63,61,61,"Frontend, Data Science"
+226973674,female,42,66,69,"IoT, DevOps"
+221492703,male,59,62,61,"Full Stack, DevOps"
+227596643,female,80,90,89,AI
+224341200,female,58,62,59,Data Science
+223037449,male,85,84,78,"IoT, Frontend"
+228325832,female,52,58,58,Frontend
+227658301,female,27,34,32,"Cybersecurity, DevOps"
+226370139,male,59,60,58,Cybersecurity
+223886314,male,49,58,60,"AI, Backend"
+227348241,male,69,58,53,DevOps
+227209817,male,61,66,61,Frontend
+227136283,female,44,64,58,Backend
+227121361,female,73,84,85,AI
+228289427,male,84,77,71,"IoT, Backend"
+222925548,female,45,73,70,DevOps
+227725349,male,74,74,72,"DevOps, Data Science"
+222755859,female,82,97,96,IoT
+228882803,female,59,70,73,"AI, IoT"
+227550574,male,46,43,41,Cybersecurity
+226755877,female,80,90,82,Cybersecurity
+228438226,female,85,95,100,"Frontend, Cybersecurity"
+227997927,female,71,83,77,Frontend
+223543439,male,66,64,62,"Full Stack, Cybersecurity"
+229108915,female,80,86,83,"Full Stack, Backend"
+223514565,male,87,100,95,Frontend
+221421658,male,79,81,71,Frontend
+221238692,female,38,49,45,"DevOps, Backend"
+229032612,female,38,43,43,Data Science
+221149998,female,67,76,75,AI
+223547889,female,64,73,70,AI
+229037140,female,57,78,67,"Data Science, Backend"
+221206817,female,62,64,64,"Cybersecurity, Full Stack"
+224055133,male,73,70,75,Full Stack
+226924277,male,73,67,59,"IoT, AI"
+226355356,female,77,68,77,"Frontend, IoT"
+221521523,male,76,67,67,Backend
+229624492,male,57,54,56,AI
+221650811,female,65,74,77,DevOps
+227599819,male,48,45,41,"Data Science, DevOps"
+224267856,female,50,67,63,"Backend, AI"
+227735207,female,85,89,95,"Frontend, Data Science"
+224938468,male,74,63,57,"DevOps, Data Science"
+225580471,male,60,59,54,"Backend, Cybersecurity"
+229658974,female,59,54,67,"Cybersecurity, AI"
+228478229,male,53,43,43,Backend
+228153194,female,49,65,55,DevOps
+228947135,female,88,99,100,Frontend
+224095193,female,54,59,62,"Cybersecurity, AI"
+227339312,female,63,73,68,"Cybersecurity, Full Stack"
+223909615,male,65,65,63,Cybersecurity
+225904838,female,82,80,77,Frontend
+224993374,female,52,57,56,AI
+229456343,male,87,84,85,Cybersecurity
+229546991,female,70,71,74,IoT
+224537470,male,84,83,78,Data Science
+221102826,male,71,66,60,AI
+222794699,male,63,67,67,Full Stack
+222372298,female,51,72,79,IoT
+228340946,male,84,73,69,Data Science
+225335104,male,71,74,68,Cybersecurity
+224230480,male,74,73,67,"IoT, Data Science"
+225200417,male,68,59,62,"Frontend, AI"
+229951532,male,57,56,54,"Cybersecurity, AI"
+224369150,female,82,93,93,"DevOps, IoT"
+226998319,female,57,58,64,Cybersecurity
+228588263,female,47,58,67,"DevOps, Data Science"
+224128117,female,59,85,80,Frontend
+225756653,male,41,39,34,Cybersecurity
+224917850,female,62,67,62,"AI, Frontend"
+228107393,male,86,83,86,Cybersecurity
+221949197,male,69,71,65,"Frontend, Cybersecurity"
+221991535,male,65,59,53,"AI, Cybersecurity"
+227204715,male,68,63,54,Cybersecurity
+228998867,male,64,66,59,Frontend
+227860203,female,61,72,70,"DevOps, AI"
+228833804,male,61,56,55,"DevOps, Frontend"
+223785806,female,47,59,50,Backend
+225527257,male,73,66,66,Frontend
+229616900,male,50,48,53,"DevOps, Full Stack"
+222192812,male,75,68,64,"Data Science, DevOps"
+227923519,male,75,66,73,AI
+228210994,male,70,56,51,"Data Science, Full Stack"
+227116605,male,89,88,82,"IoT, Backend"
+223551478,female,67,81,79,Data Science
+222591606,female,78,81,80,Backend
+228444071,female,59,73,69,"Cybersecurity, DevOps"
+223557419,female,73,83,76,"Full Stack, DevOps"
+227793361,male,79,82,73,Backend
+224752194,female,67,74,77,"Frontend, AI"
+221420865,male,69,66,60,"Frontend, Full Stack"
+221623438,male,86,81,80,Data Science
+226789534,male,47,46,42,AI
+227591284,male,81,73,72,"Frontend, DevOps"
+221125301,female,64,85,85,Backend
+223494145,female,100,92,97,"Cybersecurity, Data Science"
+224105086,female,65,77,74,"Cybersecurity, Frontend"
+227308762,male,65,58,49,"AI, Full Stack"
+226784668,female,53,61,62,DevOps
+229940432,male,37,56,47,"Data Science, Full Stack"
+223264982,female,79,89,89,"Cybersecurity, IoT"
+221796311,male,53,54,48,"DevOps, IoT"
+225153446,female,100,100,100,"Frontend, Cybersecurity"
+228468772,male,72,65,68,DevOps
+225256771,male,53,58,55,AI
+229566835,male,54,54,45,"Data Science, IoT"
+227241961,female,71,70,76,"Full Stack, IoT"
+225663947,female,77,90,91,"Data Science, Cybersecurity"
+229573757,male,75,58,62,AI
+223834056,female,84,87,91,IoT
+221905644,female,26,31,38,"Full Stack, AI"
+228663540,male,72,67,65,IoT
+227102974,female,77,88,85,"Data Science, IoT"
+227293021,male,91,74,76,Cybersecurity
+226774003,female,83,85,90,Frontend
+229895549,female,63,69,74,"DevOps, Data Science"
+221957997,female,68,86,84,Cybersecurity
+226537635,female,59,67,61,AI
+223495585,female,90,90,91,"Frontend, Full Stack"
+225881015,female,71,76,83,"Frontend, AI"
+221922794,male,76,62,66,Data Science
+226181314,male,80,68,72,Data Science
+226934181,female,55,64,70,IoT
+229614165,male,76,71,67,"IoT, Cybersecurity"
+225885972,male,73,71,68,"Frontend, Backend"
+227944413,female,52,59,56,"Backend, Data Science"
+224813520,male,68,68,61,"Frontend, DevOps"
+226263134,male,59,52,46,Backend
+221726875,female,49,52,54,DevOps
+222368513,male,70,74,71,"Data Science, Full Stack"
+225024844,male,61,47,56,Frontend
+227627372,female,60,75,74,AI
+222324903,male,64,53,57,IoT
+227100310,male,79,82,82,AI
+225342767,female,65,85,76,Backend
+226193819,female,64,64,70,"Frontend, DevOps"
+221992949,female,83,83,90,"Backend, Cybersecurity"
+221096865,female,81,88,90,Cybersecurity
+228126991,female,54,64,68,"IoT, DevOps"
+229623224,male,68,64,66,"Frontend, DevOps"
+221748480,female,54,48,52,Backend
+227707624,female,59,78,76,Backend
+222363854,female,66,69,68,Cybersecurity
+227752624,male,76,71,72,IoT
+222049839,female,74,79,82,DevOps
+225315558,female,94,87,92,"Full Stack, Frontend"
+225697748,male,63,61,54,Data Science
+227224641,female,95,89,92,DevOps
+224819776,female,40,59,54,"Data Science, Full Stack"
+222700583,female,82,82,80,Backend
+221597017,male,68,70,66,Data Science
+228517386,male,55,59,54,AI
+228514534,male,79,78,77,Frontend
+223776671,female,86,92,87,"Data Science, Frontend"
+224920301,male,76,71,73,IoT
+221167678,male,64,50,43,Cybersecurity
+226195815,male,62,49,52,"Data Science, Backend"
+223304714,female,54,61,62,Cybersecurity
+225118233,female,77,97,94,"IoT, Frontend"
+223048153,female,76,87,85,"Full Stack, Backend"
+226852258,female,74,89,84,DevOps
+224796860,female,66,74,73,"Backend, IoT"
+227553185,female,66,78,78,"AI, Backend"
+226366378,female,67,78,79,Frontend
+225284244,male,71,49,52,"DevOps, Cybersecurity"
+221710121,female,91,86,84,"Backend, IoT"
+228396808,male,69,58,57,"Cybersecurity, DevOps"
+224872747,male,54,59,50,"Data Science, Full Stack"
+221786008,male,53,52,49,Data Science
+223552852,male,68,60,59,"DevOps, Data Science"
+228940904,male,56,61,60,Backend
+223806306,female,36,53,43,"Frontend, DevOps"
+221708978,female,29,41,47,Full Stack
+229675669,female,62,74,70,Full Stack
+227490750,female,68,67,73,Backend
+221639686,female,47,54,53,"Data Science, Full Stack"
+222683847,male,62,61,58,"IoT, Frontend"
+221567703,female,79,88,94,DevOps
+222981412,male,73,69,68,"Frontend, Data Science"
+225357093,female,66,83,83,"AI, DevOps"
+221138554,male,51,60,58,"Cybersecurity, Full Stack"
+222963806,female,51,66,62,Cybersecurity
+228961923,male,85,66,71,Frontend
+229858278,male,97,92,86,Data Science
+222026158,male,75,69,68,"Data Science, Full Stack"
+228709635,male,79,82,80,"Cybersecurity, Backend"
+223645400,female,81,77,79,"Backend, AI"
+225774535,female,82,95,89,Cybersecurity
+229530533,female,64,63,66,Backend
+229164078,male,78,83,80,AI
+221354047,female,92,100,97,"Backend, IoT"
+224266125,male,72,67,64,"Data Science, DevOps"
+224406721,female,62,67,64,"Full Stack, IoT"
+226052346,male,79,72,69,"IoT, Full Stack"
+223612308,male,79,76,65,Frontend
+225615951,male,87,90,88,"Backend, Frontend"
+228974478,female,40,48,50,Full Stack
+229533786,male,77,62,64,DevOps
+226765991,male,53,45,40,Cybersecurity
+229555189,female,32,39,33,IoT
+226726320,female,55,72,79,"DevOps, Frontend"
+227519685,male,61,67,66,IoT
+223835674,female,53,70,70,Backend
+223586884,male,73,66,62,AI
+221626432,female,74,75,79,"AI, DevOps"
+226478917,female,63,74,74,"Frontend, Cybersecurity"
+223388049,male,96,90,92,Frontend
+228619977,female,63,80,80,Full Stack
+227305656,male,48,51,46,Data Science
+222099294,male,48,43,45,"Data Science, DevOps"
+225437263,female,92,100,100,Full Stack
+227130516,female,61,71,78,Frontend
+226017048,male,63,48,47,"AI, IoT"
+227090010,male,68,68,67,"Backend, Cybersecurity"
+229228099,male,71,75,70,"DevOps, IoT"
+225491613,male,91,96,92,"Data Science, Backend"
+226057024,female,53,62,56,Frontend
+222657219,female,50,66,64,Data Science
+222898684,female,74,81,71,Backend
+229162223,male,40,55,53,"Frontend, AI"
+224371938,male,61,51,52,Backend
+229244339,female,81,91,89,"Data Science, Backend"
+221838219,female,48,56,58,Full Stack
+222697544,female,53,61,68,"Backend, Full Stack"
+227897671,female,81,97,96,"Frontend, Cybersecurity"
+225091027,female,77,79,80,Frontend
+226566084,female,63,73,78,Backend
+225923348,female,73,75,80,"IoT, Data Science"
+224567285,female,69,77,77,IoT
+228450652,female,65,76,76,"AI, Frontend"
+222869194,female,55,73,73,"DevOps, Frontend"
+227394184,female,44,63,62,AI
+224512450,female,54,64,65,IoT
+228796541,female,48,66,65,"Backend, DevOps"
+224864231,male,58,57,54,DevOps
+227547709,male,71,62,50,"DevOps, AI"
+225025715,male,68,68,64,"Data Science, Full Stack"
+222032834,female,74,76,73,"Cybersecurity, Frontend"
+224737074,female,92,100,99,"DevOps, AI"
+223627456,female,56,79,72,"Backend, DevOps"
+222801565,male,30,24,15,"Backend, Cybersecurity"
+221934947,male,53,54,48,DevOps
+224687046,female,69,77,73,"Data Science, Frontend"
+228366160,female,65,82,81,"DevOps, IoT"
+225336547,female,54,60,63,Frontend
+229396781,female,29,29,30,AI
+223674878,female,76,78,80,Data Science
+221307212,male,60,57,51,Backend
+224783088,male,84,89,90,Frontend
+224734096,male,75,72,62,"Cybersecurity, DevOps"
+229966084,female,85,84,82,"Full Stack, Frontend"
+223548441,female,40,58,54,Data Science
+227937733,female,61,64,62,Data Science
+225427876,female,58,63,65,AI
+221131010,male,69,60,63,"Data Science, Frontend"
+225840889,female,58,59,66,IoT
+222703040,male,94,90,91,IoT
+226136978,female,65,77,74,"Full Stack, IoT"
+223882781,female,82,93,93,"IoT, Cybersecurity"
+227258324,female,60,68,72,"IoT, Frontend"
+225506647,female,37,45,38,AI
+222184646,male,88,78,83,Cybersecurity
+227273029,male,95,81,84,"AI, Full Stack"
+225613174,male,65,73,68,"Cybersecurity, Backend"
+221549147,female,35,61,54,"Full Stack, DevOps"
+223594028,male,62,63,56,AI
+221373139,male,58,51,52,"Frontend, IoT"
+229333043,male,100,96,86,Full Stack
+223176851,female,61,58,62,"Frontend, AI"
+227277907,male,100,97,99,Data Science
+224628610,male,69,70,63,IoT
+229051919,male,61,48,46,Data Science
+221324664,male,49,57,46,"Backend, IoT"
+223503464,female,44,51,55,"AI, Full Stack"
+221963632,male,67,64,70,"AI, Frontend"
+225150161,male,79,60,65,Cybersecurity
+224913659,female,66,74,81,"Frontend, IoT"
+227807517,female,75,88,85,Full Stack
+227181892,male,84,84,80,Cybersecurity
+228168303,male,71,74,64,"Backend, Full Stack"
+228475153,female,67,80,81,Data Science
+222406610,female,80,92,88,Data Science
+228047220,male,86,76,74,"DevOps, Full Stack"
+222995851,female,76,74,73,Frontend
+221232475,male,41,52,51,"AI, IoT"
+221904750,female,74,88,90,"Frontend, IoT"
+227731138,female,72,81,79,Cybersecurity
+225046835,female,74,79,80,"DevOps, Cybersecurity"
+228631663,male,70,65,60,AI
+225351487,female,65,81,81,"Frontend, Cybersecurity"
+226407905,female,59,70,65,"Frontend, Full Stack"
+223843198,female,64,62,68,"Backend, IoT"
+222624485,female,50,53,55,"Frontend, Full Stack"
+229708761,female,69,79,81,"AI, Backend"
+222033719,male,51,56,53,"IoT, Backend"
+224479631,female,68,80,76,"Data Science, Frontend"
+223514286,female,85,86,98,"Backend, Cybersecurity"
+221103318,female,65,70,74,"IoT, Data Science"
+226002420,female,73,79,79,Cybersecurity
+221380263,female,62,67,67,IoT
+221535749,male,77,67,64,"AI, Backend"
+229907264,male,69,66,61,"AI, DevOps"
+224088196,female,43,60,58,IoT
+225288331,male,90,87,85,Backend
+222839641,male,74,77,73,Backend
+228320145,male,73,66,63,IoT
+228437835,female,55,71,69,"Backend, Full Stack"
+229804766,female,65,69,67,Data Science
+224789346,male,80,63,63,Full Stack
+229901004,female,50,60,60,Data Science
+226245078,female,63,73,71,"Data Science, Frontend"
+223661980,female,77,85,87,"IoT, AI"
+222491484,male,73,74,61,Frontend
+229840226,male,81,72,77,Full Stack
+226051027,female,66,76,68,"Cybersecurity, Data Science"
+225163608,male,52,57,50,Full Stack
+223745065,female,69,78,76,Full Stack
+223349652,female,65,84,84,"Backend, Data Science"
+225373011,female,69,77,78,IoT
+222738731,female,50,64,66,Cybersecurity
+225015027,female,73,78,76,"Data Science, Backend"
+221143698,female,70,82,76,"DevOps, Full Stack"
+222164517,male,81,75,78,"Cybersecurity, Backend"
+224272707,male,63,61,60,"IoT, DevOps"
+224711702,female,67,72,74,Frontend
+222958255,male,60,68,60,"Data Science, Frontend"
+221286773,male,62,55,54,"IoT, Full Stack"
+226968491,female,29,40,44,Cybersecurity
+227845033,male,62,66,68,"DevOps, Full Stack"
+221699280,female,94,99,100,"Cybersecurity, DevOps"
+221647967,male,85,75,68,Full Stack
+224117326,male,77,78,73,DevOps
+221741200,male,53,58,44,"Full Stack, AI"
+223422579,male,93,90,83,"DevOps, Data Science"
+221300736,female,49,53,53,Full Stack
+228102470,female,73,76,78,"Frontend, Cybersecurity"
+229230915,female,66,74,81,Cybersecurity
+221302269,female,77,77,73,Full Stack
+225071420,female,49,63,56,Cybersecurity
+228006319,female,79,89,86,"AI, Cybersecurity"
+221879964,female,75,82,90,DevOps
+225779388,female,59,72,70,Full Stack
+223114100,female,57,78,79,"AI, DevOps"
+227231965,male,66,66,59,"Cybersecurity, AI"
+221560604,female,79,81,82,"Cybersecurity, Full Stack"
+222504631,female,57,67,72,AI
+225879550,male,87,84,87,"Frontend, Backend"
+224206637,female,63,64,67,Frontend
+226856681,female,59,63,64,"IoT, Cybersecurity"
+226099480,male,62,72,65,Frontend
+222646911,male,46,34,36,"IoT, Full Stack"
+228874133,male,66,59,52,"Cybersecurity, Backend"
+221342549,male,89,87,79,"AI, DevOps"
+228902062,female,42,61,58,"IoT, Backend"
+225388950,male,93,84,90,"Frontend, IoT"
+221035230,female,80,85,85,"DevOps, IoT"
+222645833,female,98,100,99,"Backend, Data Science"
+221220091,male,81,81,84,IoT
+224190044,female,60,70,74,AI
+228242855,female,76,94,87,Backend
+229411436,male,73,78,72,DevOps
+224036196,female,96,96,99,AI
+224805565,female,76,76,74,DevOps
+225904087,male,91,73,80,IoT
+222871355,female,62,72,70,Data Science
+223636257,male,55,59,59,Data Science
+227239755,female,74,90,88,DevOps
+226970237,male,50,48,42,Full Stack
+224531898,male,47,43,41,"Backend, Cybersecurity"
+225688345,male,81,74,71,Data Science
+228304203,female,65,75,77,Cybersecurity
+224625316,male,68,51,57,"IoT, Data Science"
+221753449,female,73,92,84,"DevOps, Backend"
+224048895,male,53,39,37,"Full Stack, IoT"
+223326263,female,68,77,80,"Frontend, Full Stack"
+225376677,male,55,46,43,"IoT, Frontend"
+223178730,female,87,89,94,"Backend, Frontend"
+227317335,male,55,47,44,"IoT, Full Stack"
+228701878,female,53,58,57,Backend
+229251954,male,67,57,59,Data Science
+225403099,male,92,79,84,"IoT, Data Science"
+222728883,female,53,66,73,"Backend, Frontend"
+229362405,male,81,71,73,AI
+225533709,male,61,60,55,Backend
+226282723,male,80,73,72,Full Stack
+225458757,female,37,57,56,"IoT, Frontend"
+224783868,female,81,84,82,"Frontend, Data Science"
+228516837,female,59,73,72,"Cybersecurity, Full Stack"
+222779762,male,55,55,47,"AI, IoT"
+229058733,male,72,79,74,DevOps
+225766713,male,69,75,71,Cybersecurity
+225616510,male,69,64,68,Backend
+223495787,female,50,60,59,DevOps
+229428685,male,87,84,86,"DevOps, Cybersecurity"
+228487981,male,71,69,68,Cybersecurity
+223492053,male,68,72,65,DevOps
+229225657,male,79,77,75,"Cybersecurity, Frontend"
+226479931,female,77,90,85,"DevOps, Cybersecurity"
+223687598,male,58,55,53,"Backend, Data Science"
+221731844,female,84,95,92,IoT
+227461193,male,55,58,52,"Full Stack, DevOps"
+221751073,male,70,68,72,Full Stack
+226219363,female,52,59,65,DevOps
+221728187,male,69,77,77,IoT
+224990639,female,53,72,64,"DevOps, Backend"
+223465270,female,48,58,54,"Backend, DevOps"
+228180045,male,78,81,86,"Cybersecurity, AI"
+224493448,female,62,62,63,Data Science
+229530022,male,60,63,59,Frontend
+228962397,female,74,72,72,"Frontend, DevOps"
+228730716,female,58,75,77,Full Stack
+222330663,male,76,62,60,Cybersecurity
+227738324,female,68,71,75,Frontend
+225016935,male,58,60,57,Backend
+223118190,male,52,48,49,"Frontend, Full Stack"
+227049073,male,75,73,74,AI
+222808416,female,52,67,72,Full Stack
+228764183,female,62,78,79,"Cybersecurity, Full Stack"
+223947023,male,66,65,60,AI
+221615202,female,49,58,55,Data Science
+224669632,female,66,72,70,AI
+224220959,female,35,44,43,"AI, IoT"
+224044594,female,72,79,82,Frontend
+228790671,male,94,85,82,IoT
+224586176,female,46,56,57,Frontend
+229727898,female,77,90,84,DevOps
+221045370,female,76,85,82,"Frontend, Cybersecurity"
+221018941,female,52,59,62,Backend
+223041194,male,91,81,79,DevOps
+227826820,female,32,51,44,Frontend
+221438304,female,72,79,77,Frontend
+229378065,female,19,38,32,"DevOps, Frontend"
+225601047,male,68,65,61,IoT
+225073760,female,52,65,61,Full Stack
+227521238,female,48,62,60,Full Stack
+223432391,female,60,66,70,Data Science
+225544303,male,66,74,69,"IoT, DevOps"
+226281204,male,89,84,77,DevOps
+229218477,female,42,52,51,"Data Science, Frontend"
+225837074,female,57,68,73,IoT
+227973338,male,70,70,70,DevOps
+224729539,female,70,84,81,AI
+226165996,male,69,60,54,IoT
+229599426,female,52,55,57,Cybersecurity
+221908132,male,67,73,68,DevOps
+228549957,male,76,80,73,"Backend, DevOps"
+225198581,female,87,94,95,"IoT, Cybersecurity"
+229965670,female,82,85,87,Data Science
+223809036,female,73,76,78,Data Science
+223048034,male,75,81,74,"Cybersecurity, DevOps"
+222209332,female,64,74,75,"Backend, Frontend"
+222475113,female,41,45,40,"IoT, Frontend"
+221104212,male,90,75,69,Frontend
+229461766,male,59,54,51,"Frontend, Backend"
+227979130,male,51,31,36,"Frontend, AI"
+227015330,male,45,47,49,"Full Stack, Data Science"
+221837061,female,54,64,67,Backend
+224630195,male,87,84,76,"DevOps, AI"
+221663378,female,72,80,83,"Cybersecurity, DevOps"
+221035445,male,94,86,87,Backend
+226278762,female,45,59,64,AI
+226155253,male,61,70,76,Data Science
+223886912,female,60,72,68,"Frontend, IoT"
+221363174,female,77,91,88,Data Science
+225957129,female,85,90,92,Data Science
+227248604,female,78,90,93,"Cybersecurity, IoT"
+229511728,male,49,52,51,"AI, Backend"
+226600267,female,71,87,82,"Cybersecurity, AI"
+226299924,female,48,58,52,Backend
+221173482,male,62,67,58,"Frontend, IoT"
+229706989,female,56,68,70,"DevOps, Cybersecurity"
+228781971,female,65,69,76,Backend
+225798295,female,69,86,81,"DevOps, Frontend"
+221311958,male,68,54,53,Data Science
+226905038,female,61,60,57,Cybersecurity
+227570846,female,74,86,89,"Backend, IoT"
+222633815,male,64,60,58,"IoT, AI"
+225390264,female,77,82,89,"IoT, DevOps"
+222030291,male,58,50,45,Frontend
+226954517,female,60,64,74,"Backend, DevOps"
+227465529,male,73,64,57,IoT
+222634217,female,75,82,79,"Full Stack, Backend"
+226075796,male,58,57,53,Data Science
+226068993,female,66,77,73,Frontend
+229401059,female,39,52,46,AI
+222256750,male,64,58,51,IoT
+229819899,female,23,44,36,"DevOps, Cybersecurity"
+228782928,male,74,77,76,"Data Science, Cybersecurity"
+223860379,female,40,65,64,IoT
+225880017,male,90,85,84,"IoT, Cybersecurity"
+229470301,male,91,85,85,Full Stack
+222171840,male,64,54,50,"Data Science, Full Stack"
+228876041,female,59,72,68,Data Science
+229868882,male,80,75,69,"AI, Full Stack"
+227664562,male,71,67,67,Data Science
+228209060,female,61,68,63,Cybersecurity
+223385437,female,87,85,93,Cybersecurity
+229057951,male,82,67,61,Full Stack
+229169225,male,62,64,55,"AI, Frontend"
+223797761,female,97,97,96,IoT
+227134173,male,75,68,65,Full Stack
+223300542,female,65,79,81,"Full Stack, Cybersecurity"
+228153617,male,52,49,46,"Backend, Frontend"
+223840564,male,87,73,72,Data Science
+226718446,female,53,62,53,AI
+228293111,female,81,86,87,"AI, DevOps"
+225669585,male,39,42,38,DevOps
+226481598,female,71,71,80,"DevOps, IoT"
+222272645,male,97,93,91,"Frontend, IoT"
+222536425,male,82,82,88,"IoT, Cybersecurity"
+227583070,male,59,53,52,Frontend
+224881202,male,61,42,41,"Frontend, Full Stack"
+221572803,male,78,74,72,Full Stack
+225553517,male,49,51,51,"Frontend, DevOps"
+225432892,male,59,58,47,"Full Stack, DevOps"
+227407300,female,70,72,76,DevOps
+223774441,male,82,84,78,"Full Stack, Backend"
+223465464,male,90,90,82,"Frontend, Data Science"
+227738060,female,43,62,61,IoT
+225391433,male,80,64,66,DevOps
+225944788,male,81,82,84,"DevOps, AI"
+222677588,male,57,61,54,Backend
+223561693,female,59,72,80,Data Science
+228980623,female,64,76,74,Full Stack
+227839560,male,63,64,66,"IoT, Cybersecurity"
+223114660,female,71,70,70,Backend
+226898876,female,64,73,71,"Frontend, Full Stack"
+229285724,male,55,46,44,"IoT, Full Stack"
+229886411,female,51,51,54,Frontend
+225318874,female,62,76,80,"AI, DevOps"
+226107385,female,93,100,95,Cybersecurity
+222729474,male,54,72,59,"IoT, Data Science"
+222728067,female,69,65,74,IoT
+224847520,male,44,51,48,"Data Science, IoT"
+221464843,female,86,85,91,AI
+226097703,female,85,92,85,Frontend
+229403406,female,50,67,73,Data Science
+226909452,male,88,74,75,IoT
+222164811,female,59,62,69,Data Science
+227463433,female,32,34,38,"Frontend, AI"
+228895202,male,36,29,27,"DevOps, Cybersecurity"
+222706286,female,63,78,79,Full Stack
+229311026,male,67,54,63,"AI, Cybersecurity"
+224052958,female,65,78,82,IoT
+223104456,male,85,84,89,"DevOps, Data Science"
+225337171,female,73,78,74,Data Science
+222915097,female,34,48,41,"Full Stack, AI"
+221334709,female,93,100,100,IoT
+226745849,female,67,84,84,Backend
+221269487,male,88,77,77,Full Stack
+226137241,male,57,48,51,Backend
+228200548,female,79,84,91,DevOps
+228823456,female,67,75,72,Full Stack
+228134438,male,70,64,70,IoT
+221494029,male,50,42,48,Cybersecurity
+225760026,female,69,84,82,"Cybersecurity, Backend"
+224087523,female,52,61,66,"Backend, Frontend"
+226609085,female,47,62,66,"Frontend, Data Science"
+223947716,female,46,61,55,"Data Science, IoT"
+223667661,female,68,70,66,"Frontend, IoT"
+227284438,male,100,100,100,Full Stack
+229868095,female,44,61,52,"Data Science, Backend"
+221225297,female,57,77,80,Full Stack
+227753628,male,91,96,91,"Full Stack, IoT"
+223939470,male,69,70,67,Data Science
+225209739,female,35,53,46,AI
+227180801,male,72,66,66,"Frontend, Data Science"
+229002248,female,54,65,65,IoT
+226938215,male,74,70,69,AI
+228067657,male,74,64,60,Backend
+226907222,male,64,56,52,"IoT, Frontend"
+224977462,female,65,61,71,Cybersecurity
+222273726,male,46,43,44,"Cybersecurity, Data Science"
+221139613,female,48,56,51,DevOps
+223046616,male,67,74,70,IoT
+222307094,male,62,57,62,Data Science
+226978536,male,61,71,73,"Full Stack, Data Science"
+223241568,male,70,75,74,IoT
+226595483,male,98,87,90,Backend
+226999460,male,70,63,58,"DevOps, Full Stack"
+222743868,male,67,57,53,"DevOps, Frontend"
+227157316,female,57,58,57,Cybersecurity
+224480278,male,85,81,85,"DevOps, IoT"
+226862612,male,77,68,69,Cybersecurity
+224802898,male,72,66,72,"AI, Backend"
+222023387,female,78,91,96,AI
+221114210,male,81,66,64,Backend
+227289085,male,61,62,61,"Cybersecurity, AI"
+226826874,female,58,68,61,Full Stack
+228937053,female,54,61,58,DevOps
+221577024,male,82,82,80,"Full Stack, Frontend"
+221400024,female,49,58,60,"IoT, Data Science"
+226125377,male,49,50,52,"IoT, Cybersecurity"
+226861304,female,57,75,73,"AI, Cybersecurity"
+227674949,male,94,73,71,"Cybersecurity, IoT"
+229246681,female,75,77,83,Data Science
+222114663,female,74,74,72,Backend
+222425376,male,58,52,54,Backend
+229927298,female,62,69,69,"Backend, IoT"
+222783695,male,72,57,62,Backend
+227222808,male,84,87,81,Cybersecurity
+221396842,female,92,100,100,Frontend
+221552028,female,45,63,59,Full Stack
+227234869,male,75,81,71,"Full Stack, Backend"
+229685091,female,56,58,64,IoT
+223659563,female,48,54,53,"IoT, AI"
+226728733,female,100,100,100,"DevOps, IoT"
+228551526,female,65,76,75,Backend
+225040003,male,72,57,58,IoT
+221642313,female,62,70,72,Cybersecurity
+226491988,male,66,68,64,AI
+228230937,male,63,63,60,Frontend
+228914538,female,68,76,67,Frontend
+227337322,female,75,84,80,AI
+227748248,female,89,100,100,Full Stack
+221304638,male,78,72,69,"Backend, Frontend"
+227019106,female,53,50,60,Cybersecurity
+223815647,female,49,65,61,Data Science
+229697005,female,54,63,67,"Frontend, Backend"
+229036773,female,64,82,77,Full Stack
+224204959,male,60,62,60,"Backend, Full Stack"
+224402089,male,62,65,58,"Backend, Frontend"
+222164023,male,55,41,48,"DevOps, Full Stack"
+224496563,female,91,95,94,"Frontend, AI"
+223430746,female,8,24,23,"IoT, DevOps"
+227623009,male,81,78,78,Cybersecurity
+229591270,male,79,85,86,"AI, Cybersecurity"
+223932944,female,78,87,91,"Full Stack, Cybersecurity"
+225481515,female,74,75,82,Full Stack
+224133928,male,57,51,54,"Backend, Data Science"
+229063142,female,40,59,51,DevOps
+221706910,male,81,75,76,Backend
+228883136,female,44,45,45,Full Stack
+222573369,female,67,86,83,"Backend, IoT"
+223578342,male,86,81,75,"Full Stack, Data Science"
+223415207,female,65,82,78,"Frontend, Backend"
+221665737,female,55,76,76,Frontend
+224439593,female,62,72,74,Cybersecurity
+229034328,male,63,63,62,Backend
+228017568,female,88,99,95,Full Stack
+228984974,male,62,55,55,"Full Stack, AI"
+221490967,female,59,71,65,"AI, Frontend"
+222812014,female,68,78,77,Backend
+229002297,female,77,86,86,Cybersecurity
